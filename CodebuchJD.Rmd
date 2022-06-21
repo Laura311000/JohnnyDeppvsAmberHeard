@@ -1,0 +1,26 @@
+---
+title: "Codebuch"
+author: "Laura Wallenfels"
+date: "21 6 2022"
+output: html_document
+---
+
+**Codebuch**
+
+**Node-Attribute**
+
+\- id: Abkürzung
+
+\- name: Name des Zeugen
+
+\- sex: Geschlecht codiert nach männlich (m) und weiblich (f)
+
+\- age: Alter nach Geburtsjahr
+
+**Edge-Attribute**
+
+\- relation: Entlastung (1) oder Belastung (2) Johnnny Depps durch den Zeugen oder neutrale Aussagen (3)
+
+-from: Beziehung ausgehend von Johnny Depp
+
+-to: Anwesende Zeugen
